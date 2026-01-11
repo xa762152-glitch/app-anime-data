@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "titulo": "Demon Slayer",
+    "portada": "https://m.media-amazon.com/images/M/MV5BODI2NjdlYWItMTE1ZC00YzI2LTlhZGQtNzE3NzA4MWM0ODYzXkEyXkFqcGdeQXVyNjU1OTg4NjM@._V1_FMjpg_UX1000_.jpg",
+    "banner": "https://images4.alphacoders.com/100/1002134.png",
+    "descripcion": "Tanjiro emprende un viaje arriesgado para buscar una cura a la maldición de su hermana.",
+    "categorias": ["Acción", "Demonios"],
+    "temporadas": {
+      "1": [
+        {"cap": 1, "nombre": "Crueldad", "url_video": "https://ejemplo.com/video1.mp4"},
+        {"cap": 2, "nombre": "Entrenamiento", "url_video": "https://ejemplo.com/video2.mp4"}
+      ]
+    }
+  }
+]
